@@ -1,0 +1,175 @@
+2026-08-30 01:34:55,579 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 01:39:20,853 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 01:39:43,446 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 01:39:43,895 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 01:40:19,978 | INFO     | Browser not detected. Launching portal browser...
+2026-08-30 01:40:19,980 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 01:40:21,974 | INFO     | Browser launched. Please log in with your credentials and terminal code.
+2026-08-30 01:53:44,787 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 01:55:17,618 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 01:55:40,707 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 01:55:41,027 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 01:55:45,508 | INFO     | Browser not detected — launching portal now...
+2026-08-30 01:55:45,511 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 01:55:47,546 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 01:56:39,621 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 01:56:39,622 | ERROR    | Login Verification Failed: Login verification failed: Browser is currently on the login page (https://kribhcoinfra.in/elogipark/). Please log in and try again.
+2026-08-30 01:57:28,538 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 01:57:28,540 | ERROR    | Login Verification Failed: Login verification failed: Browser is currently on the login page (https://kribhcoinfra.in/elogipark/). Please log in and try again.
+2026-08-30 01:57:35,674 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 01:57:35,676 | ERROR    | Login Verification Failed: Login verification failed: Browser is currently on the login page (https://kribhcoinfra.in/elogipark/). Please log in and try again.
+2026-08-30 01:58:05,281 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 01:58:05,284 | ERROR    | Login Verification Failed: Login verification failed: Browser is currently on the login page (https://kribhcoinfra.in/elogipark/). Please log in and try again.
+2026-08-30 01:58:07,273 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 01:58:07,936 | ERROR    | Failed to launch browser: Failed to launch browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-08-30 01:59:38,724 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 01:59:45,750 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 02:00:00,953 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 02:00:01,222 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 02:00:04,149 | INFO     | Browser not detected — launching portal now...
+2026-08-30 02:00:04,150 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 02:00:06,430 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 02:00:42,827 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 02:00:42,933 | INFO     | ✓ Login Verified: Verified logged in via portal navigation (URL: https://kribhcoinfra.in/elogipark/)
+2026-08-30 02:00:43,006 | WARNING  | ⚠️ Batch finished with issues: 0 succeeded, 1 failed. Booking #EXP85999: Could not navigate to Special Service Add page: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x0000022646611340 (otid=0x000002263DCC0300) current active started main>
+	Expected: <greenlet.greenlet object at 0x00000226465E4100 (otid=0x000002263DCC0ED0) suspended active started main>
+2026-08-30 02:05:17,557 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 02:06:41,238 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 02:06:54,751 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 02:06:54,999 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 02:06:57,350 | INFO     | Browser not detected — launching portal now...
+2026-08-30 02:06:57,351 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 02:06:59,744 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 02:07:46,257 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 02:07:47,515 | INFO     | ✓ Login Verified: Verified logged in (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 02:07:49,824 | WARNING  | ⚠️ Batch finished with issues: 0 succeeded, 1 failed. Booking #EXP85999: Container match mismatch! Missing containers in portal grid: {'FFAU3686242'}. Found: []. Error screenshot saved: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\missing_containers_EXP85999_20260830_020748.png
+2026-08-30 02:10:54,876 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 02:11:24,803 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 02:11:37,462 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 02:11:37,759 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 02:11:40,065 | INFO     | Browser not detected — launching portal now...
+2026-08-30 02:11:40,068 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 02:11:42,485 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 02:12:22,256 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 02:12:23,481 | INFO     | ✓ Login Verified: Verified logged in (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 02:12:25,981 | WARNING  | ⚠️ Batch finished with issues: 0 succeeded, 1 failed. Booking #EXP85999: Container match mismatch! Missing containers in portal grid: {'FFAU3686242'}. Found: []. Error screenshot saved: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\missing_containers_EXP85999_20260830_021225.png
+2026-08-30 21:50:46,349 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 21:51:08,037 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 21:51:08,764 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 21:51:12,806 | INFO     | Browser not detected — launching portal now...
+2026-08-30 21:51:12,808 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 21:51:15,532 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 21:52:12,800 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 21:52:14,109 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 21:52:33,867 | WARNING  | ⚠️ Batch finished with issues: 0 succeeded, 1 failed. Booking #EXP85999: Special Service form is still disabled after navigation. Click Add on the portal if it is visible, then retry. URL=https://kribhcoinfra.in/elogipark/Commercial/SSInvoice.aspx. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\form_disabled_20260830_215232.png
+2026-08-30 21:57:20,296 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 21:57:38,799 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 21:57:39,658 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 21:57:51,039 | INFO     | Browser not detected — launching portal now...
+2026-08-30 21:57:51,040 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 21:57:54,254 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 21:58:33,577 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 21:58:34,687 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 21:59:18,787 | WARNING  | ⚠️ Batch finished with issues: 0 succeeded, 1 failed. Booking #EXP85999: Special Service form is still disabled after clicking ADD. Visible buttons: ['Add', 'Exit']. URL=https://kribhcoinfra.in/elogipark/Commercial/SSInvoice.aspx. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\form_disabled_20260830_215917.png
+2026-08-30 22:02:23,351 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:03:46,014 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:03:46,575 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:03:48,919 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:03:48,919 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:03:51,636 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:04:44,459 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:05:01,033 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:05:01,843 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:05:04,607 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:05:04,608 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:05:07,308 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:05:39,721 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 22:05:40,707 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 22:09:04,075 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:09:20,800 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:09:21,463 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:09:23,776 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:09:23,776 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:09:26,484 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:09:56,871 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 22:09:58,014 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 22:13:43,234 | WARNING  | ⚠️ Batch finished with issues: 1 succeeded, 1 failed. Booking #EXP86126: Page.select_option: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("select#ctl00_ContentPlaceHolder1_lstInvoiceTo")
+    - locator resolved to <select title="Invoice To" disabled="disabled" class="FormListBoxMedium" id="ctl00_ContentPlaceHolder1_lstInvoiceTo" name="ctl00$ContentPlaceHolder1$lstInvoiceTo">…</select>
+  - attempting select option action
+    2 × waiting for element to be visible and enabled
+      - element is not enabled
+    - retrying select option action
+    - waiting 20ms
+    2 × waiting for element to be visible and enabled
+      - element is not enabled
+    - retrying select option action
+      - waiting 100ms
+    57 × waiting for element to be visible and enabled
+       - element is not enabled
+     - retrying select option action
+       - waiting 500ms
+
+2026-08-30 22:14:02,355 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:14:24,963 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:14:25,523 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:14:27,732 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:14:27,734 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:14:30,450 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:15:02,448 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 22:15:03,434 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 22:16:39,361 | WARNING  | ⚠️ Batch finished with issues: 1 succeeded, 1 failed. Booking #EXP86126: Could not find Billing Party on https://kribhcoinfra.in/elogipark/Commercial/SSInvoice.aspx (title='eLOGiPark :: Special Service Invoice'). Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\missing_Billing_Party_20260830_221637.png
+2026-08-30 22:20:17,392 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:20:30,531 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:20:31,198 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:20:36,293 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:20:36,294 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:20:39,027 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:21:13,373 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 22:21:14,372 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 22:23:46,700 | WARNING  | ⚠️ Batch finished with issues: 2 succeeded, 2 failed. Booking #EXP86119: Special Service form is still disabled after clicking ADD. Visible buttons: ['GO', 'Save', 'Cancel']. URL=https://kribhcoinfra.in/elogipark/Commercial/SSInvoice.aspx. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\form_disabled_20260830_222321.png | Booking #EXP86135: Special Service form is still disabled after clicking ADD. Visible buttons: ['GO', 'Save', 'Cancel']. URL=https://kribhcoinfra.in/elogipark/Commercial/SSInvoice.aspx. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\form_disabled_20260830_222345.png
+2026-08-30 22:26:35,949 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:26:51,889 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:26:52,460 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:26:55,732 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:26:55,732 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:26:58,439 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:27:32,859 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 22:27:33,784 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 22:34:00,333 | INFO     | 🎉 All done! 4 bookings processed | 4 containers | ₹53,980.00 invoiced | 4 screenshot(s) saved.
+2026-08-30 22:50:37,604 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 22:51:09,617 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 22:51:10,434 | INFO     | Validation Passed: 4 booking groups created from 4 rows.
+2026-08-30 22:51:13,921 | INFO     | Browser not detected — launching portal now...
+2026-08-30 22:51:13,923 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 22:51:17,138 | INFO     | Browser launched. Log in with your credentials and terminal code, then click 'Start Bot'.
+2026-08-30 22:51:53,199 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 22:51:54,453 | INFO     | ✓ Login Verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 22:52:24,885 | ERROR    | FAILURE | timestamp=2026-08-30T22:52:24 | process=SSR Invoicing | step=save | record=EXP85999 | category=Unexpected Error | retry=1 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225224.png
+2026-08-30 22:52:52,573 | ERROR    | FAILURE | timestamp=2026-08-30T22:52:52 | process=SSR Invoicing | step=save | record=EXP85999 | category=Unexpected Error | retry=2 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225252.png
+2026-08-30 22:53:20,179 | ERROR    | FAILURE | timestamp=2026-08-30T22:53:20 | process=SSR Invoicing | step=save | record=EXP85999 | category=Unexpected Error | retry=3 | status=Failed | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225319.png
+2026-08-30 22:54:49,369 | ERROR    | FAILURE | timestamp=2026-08-30T22:54:49 | process=SSR Invoicing | step=save | record=EXP86126 | category=Unexpected Error | retry=1 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225449.png
+2026-08-30 22:56:15,640 | ERROR    | FAILURE | timestamp=2026-08-30T22:56:15 | process=SSR Invoicing | step=save | record=EXP86126 | category=Unexpected Error | retry=2 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225615.png
+2026-08-30 22:57:45,784 | ERROR    | FAILURE | timestamp=2026-08-30T22:57:45 | process=SSR Invoicing | step=save | record=EXP86126 | category=Unexpected Error | retry=3 | status=Failed | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225745.png
+2026-08-30 22:59:17,084 | ERROR    | FAILURE | timestamp=2026-08-30T22:59:17 | process=SSR Invoicing | step=save | record=EXP86119 | category=Unexpected Error | retry=1 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225916.png
+2026-08-30 23:00:43,763 | ERROR    | FAILURE | timestamp=2026-08-30T23:00:43 | process=SSR Invoicing | step=save | record=EXP86119 | category=Unexpected Error | retry=2 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_230043.png
+2026-08-30 23:02:16,753 | ERROR    | FAILURE | timestamp=2026-08-30T23:02:16 | process=SSR Invoicing | step=save | record=EXP86119 | category=Unexpected Error | retry=3 | status=Failed | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_230216.png
+2026-08-30 23:03:47,887 | ERROR    | FAILURE | timestamp=2026-08-30T23:03:47 | process=SSR Invoicing | step=save | record=EXP86135 | category=Unexpected Error | retry=1 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_230347.png
+2026-08-30 23:05:13,646 | ERROR    | FAILURE | timestamp=2026-08-30T23:05:13 | process=SSR Invoicing | step=save | record=EXP86135 | category=Unexpected Error | retry=2 | status=Retrying | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_230513.png
+2026-08-30 23:06:40,511 | ERROR    | FAILURE | timestamp=2026-08-30T23:06:40 | process=SSR Invoicing | step=save | record=EXP86135 | category=Unexpected Error | retry=3 | status=Failed | error=Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_230640.png
+2026-08-30 23:06:41,338 | WARNING  | ⚠️ Batch finished (failed): 0 succeeded, 4 failed. Booking #EXP85999 [Unexpected Error]: Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225319.png | Booking #EXP86126 [Unexpected Error]: Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_225745.png | Booking #EXP86119 [Unexpected Error]: Portal rejected Save: Saved Successfully. Screenshot: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot Attended\completed\save_rejected_20260830_230216.png
+2026-08-30 23:25:45,932 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 23:27:27,458 | INFO     | Application initialized. Ready for SSR batch processing.
+2026-08-30 23:27:56,098 | INFO     | Parsing and validating file: C:\Users\300687\OneDrive - DP World\GSC Automation\Python Projects\SSR Bot\Input\SSR PROCESS DATA.xlsx
+2026-08-30 23:27:56,492 | INFO     | Validation passed: 4 booking groups from 4 rows.
+2026-08-30 23:28:32,035 | INFO     | Opening interactive eLOGiPark browser session...
+2026-08-30 23:28:34,757 | INFO     | Browser launched. Log in, then click Start.
+2026-08-30 23:29:13,536 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 23:29:14,039 | INFO     | Login verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 23:29:14,109 | WARNING  | Batch finished (completed): 0 succeeded, 0 failed. See the activity log.
+2026-08-30 23:29:58,878 | INFO     | Verifying login status on eLOGiPark portal...
+2026-08-30 23:29:59,383 | INFO     | Login verified: Verified logged in as KARAN (Page: https://kribhcoinfra.in/elogipark/Home.aspx)
+2026-08-30 23:29:59,454 | WARNING  | Batch finished (completed): 0 succeeded, 0 failed. See the activity log.
